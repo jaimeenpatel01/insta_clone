@@ -56,4 +56,76 @@ export const POSTS = [
             },
             ],
         },
+        {
+            imageUrl: 'https://images.pexels.com/photos/14688726/pexels-photo-14688726.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
+        
+            user: USERS[2].user,
+            likes : 500, 
+            caption: 'Loads of Knowledge Wow, great porcelain backdrop. Not the throne I thought you’d be featuring',
+            profilePicture : USERS[2].image,
+            comments:[
+                {
+                    user: 'jishnu',
+                    comment: 'Nice!'
+                },
+                {
+                    user: 'karan',
+                    comment: 'absolutly !!'
+                },
+                ],
+            },
+            {
+                imageUrl: 'https://images.pexels.com/photos/14688726/pexels-photo-14688726.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
+            
+                user: USERS[2].user,
+                likes : 500, 
+                caption: 'Loads of Knowledge Wow, great porcelain backdrop. Not the throne I thought you’d be featuring',
+                profilePicture : USERS[2].image,
+                comments:[
+                    {
+                        user: 'jishnu',
+                        comment: 'Nice!'
+                    },
+                    {
+                        user: 'karan',
+                        comment: 'absolutly !!'
+                    },
+                    ],
+                },
+                {
+                    imageUrl: 'https://images.pexels.com/photos/14688726/pexels-photo-14688726.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
+                
+                    user: USERS[2].user,
+                    likes : 500, 
+                    caption: 'Loads of Knowledge Wow, great porcelain backdrop. Not the throne I thought you’d be featuring',
+                    profilePicture : USERS[2].image,
+                    comments:[
+                        {
+                            user: 'jishnu',
+                            comment: 'Nice!'
+                        },
+                        {
+                            user: 'karan',
+                            comment: 'absolutly !!'
+                        },
+                        ],
+                    },
+                    {
+                        imageUrl: 'https://images.pexels.com/photos/14688726/pexels-photo-14688726.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
+                    
+                        user: USERS[2].user,
+                        likes : 500, 
+                        caption: 'Loads of Knowledge Wow, great porcelain backdrop. Not the throne I thought you’d be featuring',
+                        profilePicture : USERS[2].image,
+                        comments:[
+                            {
+                                user: 'jishnu',
+                                comment: 'Nice!'
+                            },
+                            {
+                                user: 'karan',
+                                comment: 'absolutly !!'
+                            },
+                            ],
+                        },
 ]
