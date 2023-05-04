@@ -143,8 +143,9 @@ const styles = StyleSheet.create({
     },
 
     footerIcon: {
-        width : 33,
-        height : 33,
+        width : 30,
+        height : 30,
+        resizeMode : 'contain'
     },
 
     leftFooterContainer:{
